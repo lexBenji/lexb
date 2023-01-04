@@ -14,4 +14,4 @@ print: hello world endl
 print: very cool
 ```
 in `hello.lexb`<br>
-`endl` is not needed at the end of the file
+`endl` is required at the end of the file

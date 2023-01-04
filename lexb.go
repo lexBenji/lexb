@@ -42,7 +42,6 @@ func main() {
 			fmt.Print(txt+" ")
 		}
 	}
-	fmt.Println()
 
 	defer fl.Close()
 }
