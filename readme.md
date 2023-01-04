@@ -1,3 +1,10 @@
+# Requirements
+```
+a device
+a terminal
+go compiler
+```
+
 # Usage
 `lexb hello.lexb`
 
