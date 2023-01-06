@@ -1,7 +1,8 @@
 Usage
 =====
 
-.. code:: py
+.. code::
+
    print: hello world endl
 
 to print **hello world**
